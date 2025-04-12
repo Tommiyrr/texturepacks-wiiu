@@ -1,2 +1,2 @@
-# Xray texturepack wiiu
- an xray texture pack for hacked wiiu
+# texture packs for wiiu
+ some textures pack for wiiu
