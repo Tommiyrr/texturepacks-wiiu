@@ -1,2 +1,2 @@
-# texture packs for wiiu
- some textures pack for wiiu
+# X-ray texture pack for wii u
+ X-ray texture pack for wii u
